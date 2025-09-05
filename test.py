@@ -97,6 +97,8 @@ def main():
     if home_dir:
         print(f"Home directory: {home_dir}")
     
+    print(hello_world())
+    
     return 0
 
 
