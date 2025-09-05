@@ -291,8 +291,7 @@ def main():
     
     # 复杂数据结构测试
     complex_data_structures()
-    
-    print("=== 所有测试示例执行完成 ===")
+
     return 0
 
 
