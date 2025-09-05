@@ -274,12 +274,6 @@ def main():
     # 代码质量测试
     code_quality_issues()
     
-    # 资源管理测试
-    resource_management_examples()
-    
-    # 输入验证测试
-    input_validation_examples("test input")
-    
     # 密码学测试
     cryptographic_examples()
     
